@@ -1368,8 +1368,8 @@
       <tuv xml:lang="EN-US">
         <seg>Denied.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="atarashi" changedate="20130710T155323Z" creationid="atarashi" creationdate="20130710T155323Z">
-        <seg>拒否されました。</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T154909Z" creationid="atarashi" creationdate="20130710T155323Z">
+        <seg>拒否します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1512,8 +1512,8 @@
       <tuv xml:lang="EN-US">
         <seg>Does not display images in articles, reduces automatic refreshes.</seg>
       </tuv>
-      <tuv xml:lang="JA">
-        <seg>記事中の画像を表示しない。自動更新が減る。</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T160135Z">
+        <seg>記事中の画像を表示しないことで自動更新を減らす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2046,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Feeds with stored articles will not be removed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T161012Z" creationid="atarashi" creationdate="20130711T161012Z">
+        <seg>保存された記事があるフィードは削除されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Feeds with update errors</seg>
       </tuv>
       <tuv xml:lang="JA">
@@ -2202,6 +2210,14 @@
       </tuv>
       <tuv xml:lang="JA">
         <seg>新しいキーを生成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Generate new syndication address for this feed?</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T160949Z" creationid="atarashi" creationdate="20130711T160949Z">
+        <seg>このフィードに対して新しいシンジケートアドレスを生成しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2424,8 +2440,8 @@
       <tuv xml:lang="EN-US">
         <seg>Incorrect database schema version.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="atarashi" changedate="20130710T155230Z" creationid="atarashi" creationdate="20130710T155230Z">
-        <seg>スキーマのバージョンが不正です。</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T154854Z" creationid="atarashi" creationdate="20130710T155230Z">
+        <seg>データベーススキーマのバージョンが適切ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,6 +4374,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Reset subscription?</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T160655Z" creationid="atarashi" creationdate="20130711T160655Z">
+        <seg>購読をリセットしますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Reset to defaults</seg>
       </tuv>
       <tuv xml:lang="JA">
@@ -4374,10 +4398,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Resets PubSubHubbub subscription status for push-enabled feeds.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T160443Z" creationid="atarashi" creationdate="20130711T160443Z">
+        <seg>プッシュ対応フィードについて PubSubHubbub の購読状態をリセットする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Resetting password for selected user...</seg>
       </tuv>
       <tuv xml:lang="JA">
         <seg>選択したユーザーのパスワードをリセットしています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Resubscribe to push updates</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T160629Z" creationid="atarashi" creationdate="20130711T160629Z">
+        <seg>プッシュ更新の再購読</seg>
       </tuv>
     </tu>
     <tu>
@@ -4400,8 +4440,8 @@
       <tuv xml:lang="EN-US">
         <seg>Reverse headline order (oldest first)</seg>
       </tuv>
-      <tuv xml:lang="JA">
-        <seg>ヘッドラインの逆順 (古いものが上)</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T155710Z">
+        <seg>ヘッドラインの順序を逆転する (古いものが上)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,8 +5056,8 @@
       <tuv xml:lang="EN-US">
         <seg>Subscribe to %s in Tiny Tiny RSS?</seg>
       </tuv>
-      <tuv xml:lang="JA">
-        <seg>%s を Tiny Tiny RSS で購読しますか？</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T161102Z">
+        <seg>%s を Tiny Tiny RSS で購読しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5090,6 +5130,14 @@
       </tuv>
       <tuv xml:lang="JA">
         <seg>フィードを購読しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Subscription reset.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T160817Z" creationid="atarashi" creationdate="20130711T160817Z">
+        <seg>購読がリセットされました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,6 +5338,14 @@
       </tuv>
       <tuv xml:lang="JA">
         <seg>Tiny Tiny RSS データ更新スクリプト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tiny Tiny RSS will try to subscribe to the notification hub again on next feed update.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T160809Z" creationid="atarashi" creationdate="20130711T160809Z">
+        <seg>次回フィード更新時に Tiny Tiny RSS は通知ハブに対して再購読を試みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5744,8 +5800,8 @@
       <tuv xml:lang="EN-US">
         <seg>Which Tags?</seg>
       </tuv>
-      <tuv xml:lang="JA">
-        <seg>どのタグ？</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T161054Z">
+        <seg>どのタグ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5944,24 +6000,24 @@
       <tuv xml:lang="EN-US">
         <seg>Your access level is insufficient to access this page.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="atarashi" changedate="20130710T155400Z" creationid="atarashi" creationdate="20130710T155400Z">
-        <seg>このページにアクセスするにはアクセスレベルが不十分です。</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T154925Z" creationid="atarashi" creationdate="20130710T155400Z">
+        <seg>あなたの権限では、このページにアクセスできません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Your access level is insufficient to open this tab.</seg>
       </tuv>
-      <tuv xml:lang="JA">
-        <seg>このタブを開くにはアクセスレベルが不十分です。</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T155004Z">
+        <seg>あなたの権限では、このタブを開ません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Your access level is insufficient to run this script.</seg>
       </tuv>
-      <tuv xml:lang="JA">
-        <seg>このスクリプトを実行するにはアクセスレベルが不十分です。</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T155301Z">
+        <seg>あなたの権限では、このスクリプトを実行できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6032,8 +6088,8 @@
       <tuv xml:lang="EN-US">
         <seg>Your temporary password will be sent to the specified email.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="atarashi" changedate="20130710T155529Z" creationid="atarashi" creationdate="20130710T155529Z">
-        <seg>一時的なパスワードが指定された電子メールに送信されます。</seg>
+      <tuv xml:lang="JA" changeid="atarashi" changedate="20130711T155349Z" creationid="atarashi" creationdate="20130710T155529Z">
+        <seg>一時的なパスワードをメールで送りました。</seg>
       </tuv>
     </tu>
     <tu>

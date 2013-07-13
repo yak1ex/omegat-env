@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>%s on %s in %s %s</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>%s 対象: %s (%s 中) %s</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T022229Z">
+        <seg>「%3$s」の %2$s に対して %1$s %4$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -477,11 +477,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Javascript で %s, %d を replace しているため順序は自由</note>
       <tuv lang="EN-US">
         <seg>Archive %d selected article in %s?</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択した %d 件の記事(%s 中)を保管しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T022805Z">
+        <seg>「%s」の選択した %d 件の記事を保管しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,14 +739,6 @@
       </tuv>
       <tuv lang="JA">
         <seg>パスワードを変更する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Change password to</seg>
-      </tuv>
-      <tuv lang="JA">
-        <seg>次のパスワードに変更する:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1349,11 +1342,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Javascript で %s, %d を replace しているため順序は自由</note>
       <tuv lang="EN-US">
         <seg>Delete %d selected article in %s?</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択した %d 件の記事(%s 中)を削除しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T022901Z">
+        <seg>「%s」の選択した %d 件の記事を削除しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,14 +1556,6 @@
       </tuv>
       <tuv lang="JA">
         <seg>電子メール</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>E-mail:</seg>
-      </tuv>
-      <tuv lang="JA">
-        <seg>電子メール:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate new share URL for this article?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T021043Z" creationid="Yak!" creationdate="20130713T021043Z">
+        <seg>この記事の新しい共有 URL を生成しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate new syndication address for this feed?</seg>
       </tuv>
       <tuv lang="JA" changeid="atarashi" changedate="20130711T160949Z" creationid="atarashi" creationdate="20130711T160949Z">
@@ -2726,14 +2720,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Login field cannot be blank.</seg>
-      </tuv>
-      <tuv lang="JA">
-        <seg>ログイン名の項目は空にできません。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Login with an SSL certificate</seg>
       </tuv>
       <tuv lang="JA">
@@ -2797,11 +2783,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Javascript で %s, %d を replace しているため順序は自由</note>
       <tuv lang="EN-US">
         <seg>Mark %d selected article in %s as read?</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択した %d 件の記事(%s 中)を既読に設定しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T022635Z">
+        <seg>「%s」の選択した %d 件の記事を既読に設定しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3894,6 +3881,33 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project-Id-Version: tt-rss unstable
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2013-07-11 20:26+0400
+PO-Revision-Date: 2013-03-25 06:48+0900
+Last-Translator: skikuta &lt;kik0220@gmail.com&gt;
+Language-Team: 
+Language: ja
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T024013Z" creationid="Yak!" creationdate="20130713T020540Z">
+        <seg>Project-Id-Version: tt-rss unstable
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2013-07-11 20:26+0400
+PO-Revision-Date: 2013-07-13 11:05+0900
+Last-Translator: Yak! &lt;yak_ex@mx.scn.tv&gt;
+Language-Team: 
+Language: ja
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Public OPML URL</seg>
       </tuv>
       <tuv lang="JA" changeid="atarashi" changedate="20130710T162334Z" creationid="atarashi" creationdate="20130710T162334Z">
@@ -4154,6 +4168,14 @@
       </tuv>
       <tuv lang="JA" changeid="atarashi" changedate="20130710T164333Z" creationid="atarashi" creationdate="20130710T164333Z">
         <seg>選択したユーザーを削除しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove sharing for this article?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T021125Z" creationid="Yak!" creationdate="20130713T021125Z">
+        <seg>この記事の共有を解除しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,14 +4564,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Saving user...</seg>
-      </tuv>
-      <tuv lang="JA">
-        <seg>ユーザーを保存しています...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Scan the following code by the Authenticator application:</seg>
       </tuv>
       <tuv lang="JA" changeid="atarashi" changedate="20130710T161558Z" creationid="atarashi" creationdate="20130710T161558Z">
@@ -4720,8 +4734,40 @@
       <tuv lang="EN-US">
         <seg>Session failed to validate (incorrect IP)</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>セッションの検査に失敗しました (IP が正しくない)</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T020650Z">
+        <seg>セッションの検査に失敗しました (IP が正しくありません)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Session failed to validate (password changed)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T020739Z" creationid="Yak!" creationdate="20130713T020739Z">
+        <seg>セッションの検査に失敗しました (パスワードが変更されました)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Session failed to validate (schema version changed)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T020641Z" creationid="Yak!" creationdate="20130713T020641Z">
+        <seg>セッションの検査に失敗しました (スキーマのバージョンが変更されました)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Session failed to validate (user agent changed)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T020712Z" creationid="Yak!" creationdate="20130713T020712Z">
+        <seg>セッションの検査に失敗しました (ユーザーエージェントが変更されました)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Session failed to validate (user not found)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T020727Z" creationid="Yak!" creationdate="20130713T020727Z">
+        <seg>セッションの検査に失敗しました (ユーザーが見つかりません)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4794,6 +4840,14 @@
       </tuv>
       <tuv lang="JA">
         <seg>共有した記事は発行したフィードに表示されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shared articles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T021011Z" creationid="Yak!" creationdate="20130713T021011Z">
+        <seg>共有された記事</seg>
       </tuv>
     </tu>
     <tu>
@@ -5222,6 +5276,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The syntax used is identical to the PHP &lt;a href='http://php.net/manual/function.date.php'&gt;date()&lt;/a&gt; function.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T020855Z" creationid="Yak!" creationdate="20130713T020855Z">
+        <seg>日付の構文は PHP の &lt;a href='http://php.net/manual/function.date.php'&gt;date()&lt;/a&gt; 関数と同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Theme</seg>
       </tuv>
       <tuv lang="JA">
@@ -5398,14 +5460,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Toggle marked</seg>
-      </tuv>
-      <tuv lang="JA">
-        <seg>既読状態の切り替え</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Toggle published</seg>
       </tuv>
       <tuv lang="JA">
@@ -5446,10 +5500,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trying to change URL...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T021236Z" creationid="Yak!" creationdate="20130713T021110Z">
+        <seg>URL の変更をしようとしています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trying to change address...</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>アドレスの変更を試みています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T021213Z">
+        <seg>アドレスの変更をしようとしています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trying to unshare...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T021302Z" creationid="Yak!" creationdate="20130713T021201Z">
+        <seg>記事の共有を解除しようとしています...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,6 +5600,14 @@
       </tuv>
       <tuv lang="JA">
         <seg>全ての記事のお気に入りを解除する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unshare article</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T021021Z" creationid="Yak!" creationdate="20130713T021021Z">
+        <seg>記事の共有を解除</seg>
       </tuv>
     </tu>
     <tu>

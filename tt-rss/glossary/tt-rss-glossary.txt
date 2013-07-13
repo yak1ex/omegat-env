@@ -6,3 +6,4 @@ comma	カンマ
 starred	お気に入り
 archive	保管
 special feed	特別フィード
+Shared articles	共有された記事

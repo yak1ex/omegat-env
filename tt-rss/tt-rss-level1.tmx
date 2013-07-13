@@ -232,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>Activate selected profile?</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたプロファイルを有効にしますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054902Z">
+        <seg>選択したプロファイルを有効にしますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -481,8 +481,8 @@
       <tuv lang="EN-US">
         <seg>Archive %d selected article in %s?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yak!" changedate="20130713T022805Z">
-        <seg>「%s」の選択した %d 件の記事を保管しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T053247Z">
+        <seg>選択した「%s」の %d 件の記事を保管しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -865,8 +865,8 @@
       <tuv lang="EN-US">
         <seg>Clearing selected feed...</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィードを消去しています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054449Z">
+        <seg>選択したフィードを消去しています...</seg>
       </tuv>
     </tu>
     <tu>
@@ -985,8 +985,8 @@
       <tuv lang="EN-US">
         <seg>Combine selected filters?</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィルターを結合しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054534Z">
+        <seg>選択したフィルターを結合しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,8 +1346,8 @@
       <tuv lang="EN-US">
         <seg>Delete %d selected article in %s?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yak!" changedate="20130713T022901Z">
-        <seg>「%s」の選択した %d 件の記事を削除しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T053200Z">
+        <seg>選択した「%s」の %d 件の記事を削除しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2787,8 +2787,8 @@
       <tuv lang="EN-US">
         <seg>Mark %d selected article in %s as read?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yak!" changedate="20130713T022635Z">
-        <seg>「%s」の選択した %d 件の記事を既読に設定しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T053442Z">
+        <seg>選択した「%s」の %d 件の記事を既読に設定しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3123,16 +3123,16 @@
       <tuv lang="EN-US">
         <seg>No article is selected.</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択された記事はありません。</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T053718Z">
+        <seg>記事が選択されていません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>No articles are selected.</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>記事は選択されていません。</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T052807Z">
+        <seg>記事が選択されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3147,32 +3147,32 @@
       <tuv lang="EN-US">
         <seg>No articles found to mark</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>マークした記事が見つかりません</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T053854Z">
+        <seg>記事が選択されていません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>No categories are selected.</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたカテゴリーはありません。</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T053009Z">
+        <seg>カテゴリーが選択されていません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>No feed selected.</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>フィードは選択されていません。</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T052752Z">
+        <seg>フィードが選択されていません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>No feeds are selected.</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィードはありません。</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T052900Z">
+        <seg>フィードが選択されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3203,8 +3203,8 @@
       <tuv lang="EN-US">
         <seg>No filters are selected.</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィルターはありません。</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T052943Z">
+        <seg>フィルターが選択されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3283,8 +3283,8 @@
       <tuv lang="EN-US">
         <seg>No users are selected.</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたユーザーはありません。</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T052925Z">
+        <seg>ユーザーが選択されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3934,8 +3934,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Published &amp; shared articles / Generated feeds</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>公開・共有された記事 / 生成されたフィード</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T055732Z">
+        <seg>公開・共有した記事 / 生成したフィード</seg>
       </tuv>
     </tu>
     <tu>
@@ -3958,8 +3958,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Published articles are exported as a public RSS feed and can be subscribed by anyone who knows the URL specified below.</seg>
       </tuv>
-      <tuv lang="JA" changeid="atarashi" changedate="20130710T172942Z">
-        <seg>公開された記事は公開 RSS フィードとしてエクスポートされ、以下の URL を知っている人であれば誰でも購読できます。</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T055739Z">
+        <seg>公開した記事は公開 RSS フィードとしてエクスポートされ、以下の URL を知っている人であれば誰でも購読できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,8 +3982,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Purging selected feed...</seg>
       </tuv>
-      <tuv lang="JA" changeid="atarashi" changedate="20130710T174845Z" creationid="atarashi" creationdate="20130710T174845Z">
-        <seg>選択されたフィードを削除しています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054453Z" creationid="atarashi" creationdate="20130710T174845Z">
+        <seg>選択したフィードを削除しています...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,16 +4094,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Remove selected</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたカテゴリーを削除</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054213Z">
+        <seg>選択したカテゴリーを削除</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Remove selected categories?</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたカテゴリーを削除しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054515Z">
+        <seg>選択したカテゴリーを削除しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4118,16 +4118,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Remove selected feeds?</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィードを削除しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054232Z">
+        <seg>選択したフィードを削除しますか?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Remove selected filters?</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィルターを削除しますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054307Z">
+        <seg>選択したフィルターを削除しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4150,8 +4150,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Remove selected profiles</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたプロファイルを削除しますか</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054201Z">
+        <seg>選択したプロファイルを削除しますか</seg>
       </tuv>
     </tu>
     <tu>
@@ -4222,24 +4222,24 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Removing selected categories...</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたカテゴリーを削除しています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054518Z">
+        <seg>選択したカテゴリーを削除しています...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Removing selected feeds...</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィードを削除しています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054244Z">
+        <seg>選択したフィードを削除しています...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Removing selected filters...</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィルターを削除しています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054313Z">
+        <seg>選択したフィルターを削除しています...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,16 +4262,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Removing selected profiles...</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたプロファイルを削除しています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054858Z">
+        <seg>選択したプロファイルを削除しています...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Removing selected users...</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたユーザーを削除しています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054303Z">
+        <seg>選択したユーザーを削除しています...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,8 +4358,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Rescoring selected feeds...</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィードのスコアを再計算しています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T055102Z">
+        <seg>選択したフィードのスコアを再計算しています...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4838,16 +4838,16 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Shared article will appear in the Published feed.</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>共有した記事は発行したフィードに表示されます</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T055424Z">
+        <seg>共有した記事は「公開済みの記事」に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Shared articles</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yak!" changedate="20130713T021011Z" creationid="Yak!" creationdate="20130713T021011Z">
-        <seg>共有された記事</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T055556Z" creationid="Yak!" creationdate="20130713T021011Z">
+        <seg>共有した記事</seg>
       </tuv>
     </tu>
     <tu>
@@ -5142,8 +5142,8 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Subscribe to selected feed</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィードを購読する</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054150Z">
+        <seg>選択したフィードを購読する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5638,24 +5638,24 @@ Plural-Forms: nplurals=1; plural=0;</seg>
       <tuv lang="EN-US">
         <seg>Unsubscribe from selected feeds</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィードの購読をやめる</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054225Z">
+        <seg>選択したフィードの購読をやめる</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unsubscribe from selected feeds?</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィードの購読をやめますか?</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054321Z">
+        <seg>選択したフィードの購読をやめますか?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unsubscribing from selected feeds...</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>選択されたフィードの購読を解除しています...</seg>
+      <tuv lang="JA" changeid="Yak!" changedate="20130713T054325Z">
+        <seg>選択したフィードの購読を解除しています...</seg>
       </tuv>
     </tu>
     <tu>

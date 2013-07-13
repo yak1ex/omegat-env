@@ -961,7 +961,7 @@ msgstr "ラベル:"
 
 #: classes/handler/public.php:475
 msgid "Shared article will appear in the Published feed."
-msgstr "共有した記事は発行したフィードに表示されます"
+msgstr "共有した記事は「公開済みの記事」に表示されます。"
 
 #: classes/handler/public.php:477
 msgid "Share"
@@ -1013,7 +1013,7 @@ msgstr "<b>%s</b> は購読できませんでした。<br>フィードの URL �
 #: classes/handler/public.php:629
 #: classes/handler/public.php:721
 msgid "Subscribe to selected feed"
-msgstr "選択されたフィードを購読する"
+msgstr "選択したフィードを購読する"
 
 #: classes/handler/public.php:654
 #: classes/handler/public.php:745
@@ -1285,7 +1285,7 @@ msgstr "いくつかのフィードの更新エラーです (詳細はクリッ�
 
 #: classes/feeds.php:912
 msgid "No feed selected."
-msgstr "フィードは選択されていません。"
+msgstr "フィードが選択されていません。"
 
 #: classes/feeds.php:965
 #: classes/feeds.php:973
@@ -2189,7 +2189,7 @@ msgstr "(有効)"
 
 #: classes/pref/prefs.php:1094
 msgid "Remove selected profiles"
-msgstr "選択されたプロファイルを削除しますか"
+msgstr "選択したプロファイルを削除しますか"
 
 #: classes/pref/prefs.php:1096
 msgid "Activate profile"
@@ -2295,7 +2295,7 @@ msgstr "カテゴリーを追加"
 
 #: classes/pref/feeds.php:1327
 msgid "Remove selected"
-msgstr "選択されたカテゴリーを削除"
+msgstr "選択したカテゴリーを削除"
 
 #: classes/pref/feeds.php:1338
 msgid "More actions..."
@@ -2367,11 +2367,11 @@ msgstr "クリックするとフィードリーダーとしてこのサイトを
 
 #: classes/pref/feeds.php:1457
 msgid "Published & shared articles / Generated feeds"
-msgstr "公開・共有された記事 / 生成されたフィード"
+msgstr "公開・共有した記事 / 生成したフィード"
 
 #: classes/pref/feeds.php:1459
 msgid "Published articles are exported as a public RSS feed and can be subscribed by anyone who knows the URL specified below."
-msgstr "公開された記事は公開 RSS フィードとしてエクスポートされ、以下の URL を知っている人であれば誰でも購読できます。"
+msgstr "公開した記事は公開 RSS フィードとしてエクスポートされ、以下の URL を知っている人であれば誰でも購読できます。"
 
 #: classes/pref/feeds.php:1467
 msgid "Display URL"
@@ -2393,7 +2393,7 @@ msgstr "編集するにはクリック"
 #: classes/pref/feeds.php:1602
 #: classes/pref/feeds.php:1670
 msgid "Unsubscribe from selected feeds"
-msgstr "選択されたフィードの購読をやめる"
+msgstr "選択したフィードの購読をやめる"
 
 #: classes/pref/feeds.php:1775
 msgid "Add one valid RSS feed per line (no feed detection is done)"
@@ -2621,7 +2621,7 @@ msgstr "お気に入りの項目をインポートする"
 #: plugins/vf_shared/init.php:16
 #: plugins/vf_shared/init.php:54
 msgid "Shared articles"
-msgstr "共有された記事"
+msgstr "共有した記事"
 
 #: plugins/instances/init.php:141
 msgid "Linked"
@@ -2911,7 +2911,7 @@ msgstr "さらなるフィード"
 #: js/prefs.js:1194
 #: js/prefs.js:1339
 msgid "No feeds are selected."
-msgstr "選択されたフィードはありません。"
+msgstr "フィードが選択されていません。"
 
 #: js/functions.js:1702
 msgid "Remove selected feeds from the archive? Feeds with stored articles will not be removed."
@@ -2924,12 +2924,12 @@ msgstr "更新エラーのあるフィード"
 #: js/functions.js:1752
 #: js/prefs.js:1176
 msgid "Remove selected feeds?"
-msgstr "選択されたフィードを削除しますか?"
+msgstr "選択したフィードを削除しますか?"
 
 #: js/functions.js:1755
 #: js/prefs.js:1179
 msgid "Removing selected feeds..."
-msgstr "選択されたフィードを削除しています..."
+msgstr "選択したフィードを削除しています..."
 
 #: js/functions.js:1853
 msgid "Help"
@@ -2994,36 +2994,36 @@ msgstr "選択したユーザーを削除しますか?標準の admin あるい�
 
 #: js/prefs.js:329
 msgid "Removing selected users..."
-msgstr "選択されたユーザーを削除しています..."
+msgstr "選択したユーザーを削除しています..."
 
 #: js/prefs.js:343
 #: js/prefs.js:487
 #: js/prefs.js:508
 #: js/prefs.js:547
 msgid "No users are selected."
-msgstr "選択されたユーザーはありません。"
+msgstr "ユーザーが選択されていません。"
 
 #: js/prefs.js:361
 msgid "Remove selected filters?"
-msgstr "選択されたフィルターを削除しますか?"
+msgstr "選択したフィルターを削除しますか?"
 
 #: js/prefs.js:364
 msgid "Removing selected filters..."
-msgstr "選択されたフィルターを削除しています..."
+msgstr "選択したフィルターを削除しています..."
 
 #: js/prefs.js:376
 #: js/prefs.js:584
 #: js/prefs.js:603
 msgid "No filters are selected."
-msgstr "選択されたフィルターはありません。"
+msgstr "フィルターが選択されていません。"
 
 #: js/prefs.js:395
 msgid "Unsubscribe from selected feeds?"
-msgstr "選択されたフィードの購読をやめますか?"
+msgstr "選択したフィードの購読をやめますか?"
 
 #: js/prefs.js:399
 msgid "Unsubscribing from selected feeds..."
-msgstr "選択されたフィードの購読を解除しています..."
+msgstr "選択したフィードの購読を解除しています..."
 
 #: js/prefs.js:429
 msgid "Please select only one feed."
@@ -3035,7 +3035,7 @@ msgstr "選択したフィード内のお気に入りしていない記事をす
 
 #: js/prefs.js:438
 msgid "Clearing selected feed..."
-msgstr "選択されたフィードを消去しています..."
+msgstr "選択したフィードを消去しています..."
 
 #: js/prefs.js:457
 msgid "How many days of articles to keep (0 - use default)?"
@@ -3043,7 +3043,7 @@ msgstr "記事を維持したい日数は? (0: 標準を使う)"
 
 #: js/prefs.js:460
 msgid "Purging selected feed..."
-msgstr "選択されたフィードを削除しています..."
+msgstr "選択したフィードを削除しています..."
 
 #: js/prefs.js:492
 #: js/prefs.js:513
@@ -3069,7 +3069,7 @@ msgstr "フィルターをひとつだけ選択してください。"
 
 #: js/prefs.js:607
 msgid "Combine selected filters?"
-msgstr "選択されたフィルターを結合しますか?"
+msgstr "選択したフィルターを結合しますか?"
 
 #: js/prefs.js:610
 msgid "Joining filters..."
@@ -3111,15 +3111,15 @@ msgstr "カテゴリーを削除しています..."
 
 #: js/prefs.js:1110
 msgid "Remove selected categories?"
-msgstr "選択されたカテゴリーを削除しますか?"
+msgstr "選択したカテゴリーを削除しますか?"
 
 #: js/prefs.js:1113
 msgid "Removing selected categories..."
-msgstr "選択されたカテゴリーを削除しています..."
+msgstr "選択したカテゴリーを削除しています..."
 
 #: js/prefs.js:1126
 msgid "No categories are selected."
-msgstr "選択されたカテゴリーはありません。"
+msgstr "カテゴリーが選択されていません。"
 
 #: js/prefs.js:1134
 msgid "Category title:"
@@ -3147,7 +3147,7 @@ msgstr "選択したフィードの記事のスコアを再計算しますか?"
 
 #: js/prefs.js:1326
 msgid "Rescoring selected feeds..."
-msgstr "選択されたフィードのスコアを再計算しています..."
+msgstr "選択したフィードのスコアを再計算しています..."
 
 #: js/prefs.js:1346
 msgid "Rescore all articles? This operation may take a lot of time."
@@ -3171,7 +3171,7 @@ msgstr "選択したプロファイルを削除しますか?現在のプロフ�
 
 #: js/prefs.js:1415
 msgid "Removing selected profiles..."
-msgstr "選択されたプロファイルを削除しています..."
+msgstr "選択したプロファイルを削除しています..."
 
 #: js/prefs.js:1430
 msgid "No profiles are selected."
@@ -3180,7 +3180,7 @@ msgstr "プロファイルが選択されていません。"
 #: js/prefs.js:1438
 #: js/prefs.js:1491
 msgid "Activate selected profile?"
-msgstr "選択されたプロファイルを有効にしますか?"
+msgstr "選択したプロファイルを有効にしますか?"
 
 #: js/prefs.js:1454
 #: js/prefs.js:1507
@@ -3302,12 +3302,12 @@ msgstr[0] "%d 件の記事を選択"
 #: plugins/mailto/init.js:7
 #: plugins/mail/mail.js:7
 msgid "No articles are selected."
-msgstr "記事は選択されていません。"
+msgstr "記事が選択されていません。"
 
 #: js/viewfeed.js:1038
 msgid "Delete %d selected article in %s?"
 msgid_plural "Delete %d selected articles in %s?"
-msgstr[0] "「%s」の選択した %d 件の記事を削除しますか?"
+msgstr[0] "選択した「%s」の %d 件の記事を削除しますか?"
 
 #: js/viewfeed.js:1040
 msgid "Delete %d selected article?"
@@ -3317,7 +3317,7 @@ msgstr[0] "選択した %d 件の記事を削除しますか?"
 #: js/viewfeed.js:1082
 msgid "Archive %d selected article in %s?"
 msgid_plural "Archive %d selected articles in %s?"
-msgstr[0] "「%s」の選択した %d 件の記事を保管しますか?"
+msgstr[0] "選択した「%s」の %d 件の記事を保管しますか?"
 
 #: js/viewfeed.js:1085
 msgid "Move %d archived article back?"
@@ -3331,7 +3331,7 @@ msgstr "お気に入りから外した記事は次回フィード更新時に削
 #: js/viewfeed.js:1132
 msgid "Mark %d selected article in %s as read?"
 msgid_plural "Mark %d selected articles in %s as read?"
-msgstr[0] "「%s」の選択した %d 件の記事を既読に設定しますか?"
+msgstr[0] "選択した「%s」の %d 件の記事を既読に設定しますか?"
 
 #: js/viewfeed.js:1156
 msgid "Edit article Tags"
@@ -3343,11 +3343,11 @@ msgstr "記事のタグを保存しています..."
 
 #: js/viewfeed.js:1399
 msgid "No article is selected."
-msgstr "選択された記事はありません。"
+msgstr "記事が選択されていません。"
 
 #: js/viewfeed.js:1434
 msgid "No articles found to mark"
-msgstr "マークした記事が見つかりません"
+msgstr "記事が選択されていません。"
 
 #: js/viewfeed.js:1436
 msgid "Mark %d article as read?"

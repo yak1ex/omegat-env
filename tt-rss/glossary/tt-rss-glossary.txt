@@ -1,9 +1,8 @@
 default	標準
-default	標準
 E-mail	電子メール
 Popular feeds	人気のあるフィード
 comma	カンマ
 starred	お気に入り
 archive	保管
 special feed	特別フィード
-Shared articles	共有された記事
+Shared articles	共有した記事
